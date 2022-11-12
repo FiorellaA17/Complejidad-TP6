@@ -1,0 +1,6 @@
+C:\Users\Windows\Documents\SharpDevelop Projects\Grafos\Grafos\bin\Debug\Grafos.exe.config
+C:\Users\Windows\Documents\SharpDevelop Projects\Grafos\Grafos\bin\Debug\Grafos.exe
+C:\Users\Windows\Documents\SharpDevelop Projects\Grafos\Grafos\bin\Debug\Grafos.pdb
+C:\Users\Windows\Documents\SharpDevelop Projects\Grafos\Grafos\obj\Debug\Grafos.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Documents\SharpDevelop Projects\Grafos\Grafos\obj\Debug\Grafos.exe
+C:\Users\Windows\Documents\SharpDevelop Projects\Grafos\Grafos\obj\Debug\Grafos.pdb
