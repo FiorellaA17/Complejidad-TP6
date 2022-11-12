@@ -95,7 +95,7 @@ namespace Grafos
 			_mejorCamino(origen,destino,camino,mejorCamino,visitados);
 			foreach(var elem in mejorCamino)
 			{
-				Console.WriteLine(elem.getDato());
+				Console.Write(elem.getDato() + "|");
 			}
 		}
 

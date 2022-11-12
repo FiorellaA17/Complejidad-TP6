@@ -42,7 +42,11 @@ namespace Grafos
 			Console.WriteLine("");
 			Console.WriteLine("");
 			
+			Console.WriteLine("MEJOR CAMINO:");
+			Console.WriteLine("");
 			grafo.DFS_mejorCamino(v1,v6);
+			Console.WriteLine("");
+			Console.WriteLine("");
 			
 			
 			
